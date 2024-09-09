@@ -1,0 +1,1 @@
+La carpeta Archivos contiene carpetas separadas en días, cada una con un proyecto diferente de Python que solo se deben ejecutar. La carpeta mi_web contiene el proyecto de Django. Para ejecutarlo, simplemente ejecutas en la terminal Python manage.py runserver.
